@@ -11,6 +11,7 @@ Using technology:
 5) Datta Able Django 1.0.6
 6) Matplotlib
 7) Pandas
+8) js
 
 # Web service
 
